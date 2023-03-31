@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rS2IDJoWciAKi6bPQrUfJWGlMUsvhBSfasa/Xao6r41Xqmm9e3VxPU7+Iim42anPgD04GQia+WidP0be1fKUMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\dotnet\\ShapeProcessingApplication\\ShapeProcessingApplication\\ShapeProcessingApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinit\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\vinit\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
